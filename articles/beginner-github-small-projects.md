@@ -1,6 +1,6 @@
 ---
 title: "初心者がGitHubに小さな作品を増やして分かったこと"
-emoji: "🐙"
+emoji: "🌱"
 type: "tech"
 topics: ["GitHub", "初心者", "個人開発", "学習", "ポエム"]
 published: true
